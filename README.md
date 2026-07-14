@@ -47,3 +47,4 @@ This project was developed as part of a Flutter assignment to practice Flutter f
 
 
 ![image alt](https://github.com/ftabeercode/tabeer-student-profile/blob/64b8c3ef6c90a8128f6e4a1b9d39ce8a21ae4f18/ss1.png)
+![image alt](https://github.com/ftabeercode/tabeer-student-profile/blob/2085db74b180368d40b80b2a3334ca312c62a805/ss2.png)
