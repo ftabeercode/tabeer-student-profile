@@ -44,3 +44,6 @@ This project was developed as part of a Flutter assignment to practice Flutter f
 - Computer Science Student
 - National University of Modern Languages (NUML)
 - Passionate about Flutter, Artificial Intelligence, and Mobile App Development.
+
+
+![image alt](https://github.com/ftabeercode/tabeer-student-profile/blob/64b8c3ef6c90a8128f6e4a1b9d39ce8a21ae4f18/ss1.png)
