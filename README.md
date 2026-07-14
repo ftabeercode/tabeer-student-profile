@@ -1,2 +1,16 @@
-# tabeer-student-profile
-A Flutter-based Student Profile application featuring a modern and responsive UI with profile image, personal details, contact information, About Me section, and an Edit Profile button using core Flutter widgets and clean design principles.
+# zenvyrotask1
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
