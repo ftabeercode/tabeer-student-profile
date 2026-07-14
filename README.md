@@ -36,7 +36,7 @@ A Flutter-based Student Profile application designed with a modern and responsiv
 
 ## About the Project
 
-This project was developed as part of a Flutter assignment to practice Flutter fundamentals and UI design. The application showcases a student profile with a personalized theme, responsive layout, and an aesthetically pleasing interface.
+This project was developed as part of a Flutter to practice Flutter fundamentals(Widgets) and UI design. The application showcases a student profile with a personalized theme, responsive layout, and an aesthetically pleasing interface.
 
 ## Author
 
